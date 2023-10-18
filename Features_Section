@@ -1,0 +1,10 @@
+// The "Features" section of this app is your gateway to an enriched exploration experience. Discover user-friendly navigation, real-time location tracking, immersive audio guides, and curated points of interest. Uncover hidden gems, local favorites, and historical landmarks with ease, making every tour memorable.
+
+<ImageView
+                android:id="@+id/back_pressed"
+                android:layout_width="?actionBarSize"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:padding="15dp"
+                android:src="@drawable/general_back_icon"
+             />
